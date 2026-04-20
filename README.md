@@ -1,5 +1,18 @@
-# 💫 About Me:
-i am currently working on collage ERP project for my own collage project submission on a high level ERP with multiple own thinked ideas like support chat, chat with teacher and personalised group chat for collages, and also a feature kind of notice board and attendence class and section wise.<br>i am also working as a proffesional in primewayz infotech pvt. ltd. as java developer (backend focused).<br>i am also learning react(for web development ) and react native (for mobile application development).
+## 💫 About Me
+
+🎓 Pursuing **MCA from IGNOU** (expected completion: December 2026)
+
+👨‍💻 Working as a **Java Developer (Backend)** at **Primewayz Infotech Pvt. Ltd.**
+
+🏗️ Building a full-featured **College ERP System** as my major project — with some unique ideas baked in:
+- 💬 **Support chat** & **teacher–student chat** system
+- 👥 **Personalized group chats** for college communities
+- 📋 **Digital notice board** for announcements
+- 📅 **Attendance tracking** — class & section wise
+
+🌱 Currently learning:
+- **React** — for modern web development
+- **React Native** — for cross-platform mobile apps
 
 
 ## 🌐 Socials:
